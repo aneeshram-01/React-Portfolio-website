@@ -9,7 +9,7 @@ import Portfolio6 from '../../assets/portfolio-6.png';
 const Works =()=> {
     return (
         <section id='Works'>
-            <h2 className="worksTitle">My Portfolio</h2>
+            <h2 className="worksTitle">My Works</h2>
             <span className="worksDesc">I take pride in paying attention to the smallest details and making sure that my work is pixel perfect. I am excited to bring my skills and experience to help businesses achieve their goals and create a strong online presence.</span>
             <div className="worksImgs">
          <a href="https://github.com/aneeshram-01/Meridian" target="_blank" rel="noopener noreferrer">
