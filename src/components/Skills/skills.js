@@ -16,7 +16,7 @@ const Skills = () => {
                         <p>Frontend using HTML, CSS, JavaScript, React.js<br/>Backend using Express.js and Node.js</p>
                     </div>
                 </div>
-
+ <a href="https://www.coursera.org/account/accomplishments/verify/NTRUWYAQYXH3" target="_blank" rel="noopener noreferrer">
                 <div className="skillBar">
                     <img src={Google} alt="Google" className="skillBarImg" />
                     <div className="skillBarText">
@@ -24,7 +24,7 @@ const Skills = () => {
                         <p>Completed Foundational Course</p>
                     </div>
                 </div>
-
+        </a>
 
             </div>
         </section>
