@@ -36,7 +36,9 @@ const Contact = () => {
             <div className='links'>
                 <img className='link' src={FacebookIcon} alt='Facebook'/>
                 <img className='link' src={TwitterIcon} alt='Twitter'/>
+     <a href="https://www.instagram.com/aneesh.ram01/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
+    </a>
 
             </div>
             
