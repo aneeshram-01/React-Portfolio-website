@@ -6,7 +6,7 @@ import AppDesign from '../../assets/app-design.png'
 const Skills = () => {
     return (
         <section id='skills'>
-            <span className="skillTitle">Certificate</span>
+            <span className="skillTitle">Certifications</span>
             <span className="skillDesc"></span>
             <div className="skillBars">
          <a href="https://www.coursera.org/account/accomplishments/verify/VU4AKU5B46LP" target="_blank" rel="noopener noreferrer">
@@ -14,7 +14,7 @@ const Skills = () => {
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>IBM Certification</h2>
-                        <p> Introduction to Web Development with HTML, CSS, JavaScript</p>
+                        <p>Introduction to Web Development with HTML, CSS, JavaScript</p>
                     </div>
                 </div>
         </a>
@@ -23,7 +23,7 @@ const Skills = () => {
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>IBM Certification</h2>
-                        <p> Developing Front-End Apps with React</p>
+                        <p>Developing Front-End Apps with React</p>
                     </div>
                 </div>
         </a>
