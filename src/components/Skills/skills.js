@@ -6,8 +6,8 @@ import AppDesign from '../../assets/app-design.png'
 const Skills = () => {
     return (
         <section id='skills'>
-            <span className="skillTitle">What I Do</span>
-            <span className="skillDesc">Explain Explain Explain Explain Explain Explain Explain </span>
+            <span className="skillTitle">Certificate</span>
+            <span className="skillDesc"></span>
             <div className="skillBars">
                 <div className="skillBar">
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
