@@ -9,13 +9,16 @@ const Skills = () => {
             <span className="skillTitle">Certificate</span>
             <span className="skillDesc"></span>
             <div className="skillBars">
+         <a href="https://www.coursera.org/account/accomplishments/verify/VU4AKU5B46LP" target="_blank" rel="noopener noreferrer">
                 <div className="skillBar">
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>IBM Certification</h2>
-                        <p> ntroduction to Web Development with HTML, CSS, JavaScript</p>
+                        <p> Introduction to Web Development with HTML, CSS, JavaScript</p>
                     </div>
                 </div>
+        </a>
+         <a href="https://www.coursera.org/account/accomplishments/verify/EGAXD5TVGBVP" target="_blank" rel="noopener noreferrer">
             <div className="skillBar">
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
@@ -23,6 +26,8 @@ const Skills = () => {
                         <p> Developing Front-End Apps with React</p>
                     </div>
                 </div>
+        </a>
+         <a href="https://www.coursera.org/account/accomplishments/verify/F8B79GHPJ6AG" target="_blank" rel="noopener noreferrer">
             <div className="skillBar">
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
@@ -30,6 +35,7 @@ const Skills = () => {
                         <p>Developing Back-End Apps with Node.js and Express</p>
                     </div>
                 </div>
+        </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/NTRUWYAQYXH3" target="_blank" rel="noopener noreferrer">
                 <div className="skillBar">
                     <img src={Google} alt="Google" className="skillBarImg" />
