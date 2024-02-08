@@ -13,7 +13,21 @@ const Skills = () => {
                     <img src={Ibm} alt="Ibm" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>IBM Certification</h2>
-                        <p>Frontend using HTML, CSS, JavaScript, React.js<br/>Backend using Express.js and Node.js</p>
+                        <p> ntroduction to Web Development with HTML, CSS, JavaScript</p>
+                    </div>
+                </div>
+            <div className="skillBar">
+                    <img src={Ibm} alt="Ibm" className="skillBarImg" />
+                    <div className="skillBarText">
+                        <h2>IBM Certification</h2>
+                        <p> Developing Front-End Apps with React</p>
+                    </div>
+                </div>
+            <div className="skillBar">
+                    <img src={Ibm} alt="Ibm" className="skillBarImg" />
+                    <div className="skillBarText">
+                        <h2>IBM Certification</h2>
+                        <p>Developing Back-End Apps with Node.js and Express</p>
                     </div>
                 </div>
  <a href="https://www.coursera.org/account/accomplishments/verify/NTRUWYAQYXH3" target="_blank" rel="noopener noreferrer">
