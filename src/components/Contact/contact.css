@@ -63,3 +63,9 @@
     width: 3rem;
     margin: 0 0.75rem;
 }
+
+#linkid {
+    border-radius: 3rem;
+    height: 1.2cm;
+    width: 1.2cm;
+}
