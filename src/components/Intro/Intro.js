@@ -9,8 +9,8 @@ const Intro=()=>{
         <section id="intro">
             <div className="introContent">
                 <span className='hello'>Hey there!!</span>
-                <span className='introText'>I'm <span className='introName'>Aneeshram</span><br/>A Developer</span>
-                <p className='introPara'>I am a skilled and passionate Web Designer </br>and ML Engineer</p>
+                <span className='introText'>I'm <span className='introName'> Aneeshram </span> <br/> A Developer </span>
+                <p className='introPara'>I am a skilled and passionate Web Designer <br/> and ML Engineer </p>
                 <Link to='contact' smooth={true}><button className='btn'><img src={contactImg} alt='Mail Me'className='contactImg'/>Mail Me</button></Link>
             </div>
             <img src={bg} alt= "Profile" className="bg"></img>
