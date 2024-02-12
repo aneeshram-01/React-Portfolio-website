@@ -1,6 +1,6 @@
 import React, {useRef} from 'react';
 import './contact.css';
-import FacebookIcon from '../../assets/facebook-icon.png';
+import FacebookIcon from '../../assets/p15.png';
 import TwitterIcon from '../../assets/twitter.png';
 import InstagramIcon from '../../assets/instagram.png';
 import emailjs from '@emailjs/browser';
@@ -34,8 +34,12 @@ const Contact = () => {
             <textarea className='msg' name='message' rows='5' placeholder='Your Message'></textarea>
             <button className='submitBtn' type='submit' value='Send'>Submit</button>
             <div className='links'>
+    <a href="https://www.linkedin.com/in/aneeshram-bhat-364a82249/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={FacebookIcon} alt='Facebook'/>
+    </a>
+  <a href="https://x.com/aneesh_ram01?t=GmvCmz5DeGtIwL16gio12g&s=08" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={TwitterIcon} alt='Twitter'/>
+    </a>
      <a href="https://www.instagram.com/aneesh.ram01/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
     </a>
