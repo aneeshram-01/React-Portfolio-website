@@ -45,7 +45,7 @@ const Contact = () => {
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
     </a>
 <a href="https://github.com/aneeshram-01" target="_blank" rel="noopener noreferrer">
-                <img className='link' class='logo'  src={GithubIcon} alt='Github'/>
+                <img className='link' class='logoooo'  src={GithubIcon} alt='Github'/>
     </a>
             </div>
             
