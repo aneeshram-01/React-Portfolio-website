@@ -109,6 +109,11 @@
         z-index: -1;
         right: 0rem;
         position:absolute;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
     }
     .introContent {
         margin-top: -13rem;
