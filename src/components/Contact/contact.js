@@ -39,13 +39,13 @@ const Contact = () => {
                 <img className='link' src={FacebookIcon} alt='Facebook'/>
     </a>
   <a href="https://x.com/aneesh_ram01?t=GmvCmz5DeGtIwL16gio12g&s=08" target="_blank" rel="noopener noreferrer">
-                <img className='link' id='logo' src={TwitterIcon} alt='Twitter'/>
+                <img className='link' class='logo' id='logo' src={TwitterIcon} alt='Twitter'/>
     </a>
      <a href="https://www.instagram.com/aneesh.ram01/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
     </a>
 <a href="https://github.com/aneeshram-01" target="_blank" rel="noopener noreferrer">
-                <img className='link' id='logo' src={GithubIcon} alt='Github'/>
+                <img className='link' class='logo'  src={GithubIcon} alt='Github'/>
     </a>
             </div>
             
