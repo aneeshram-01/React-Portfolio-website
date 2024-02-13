@@ -138,8 +138,12 @@
     }
     @media screen and (max-width: 465px) {
         .bg {
-            margin-right: 0%;
-            padding-right: 0px;
+            margin-right: -55px;
+            
+            padding-left: 5px;
+           
+            
+            margin-left: 20px;
         }
         }
     
