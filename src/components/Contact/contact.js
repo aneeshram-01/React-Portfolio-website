@@ -1,8 +1,9 @@
 import React, {useRef} from 'react';
 import './contact.css';
-import FacebookIcon from '../../assets/p15.png';
-import TwitterIcon from '../../assets/twitter.png';
+import FacebookIcon from '../../assets/p20.png';
+import TwitterIcon from '../../assets/ptweet.png';
 import InstagramIcon from '../../assets/instagram.png';
+import GithubIcon from '../../assets/pgit.png';
 import emailjs from '@emailjs/browser';
 const Contact = () => {
   const form = useRef();
@@ -35,7 +36,7 @@ const Contact = () => {
             <button className='submitBtn' type='submit' value='Send'>Submit</button>
             <div className='links'>
     <a href="https://www.linkedin.com/in/aneeshram-bhat-364a82249/" target="_blank" rel="noopener noreferrer">
-                <img className='link' id='linkid' src={FacebookIcon} alt='Facebook'/>
+                <img className='link' src={FacebookIcon} alt='Facebook'/>
     </a>
   <a href="https://x.com/aneesh_ram01?t=GmvCmz5DeGtIwL16gio12g&s=08" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={TwitterIcon} alt='Twitter'/>
@@ -43,7 +44,9 @@ const Contact = () => {
      <a href="https://www.instagram.com/aneesh.ram01/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
     </a>
-
+<a href="https://github.com/aneeshram-01" target="_blank" rel="noopener noreferrer">
+                <img className='link' src={GithubIcon} alt='Github'/>
+    </a>
             </div>
             
         </form>
