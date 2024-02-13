@@ -103,16 +103,11 @@
 
 @media screen and (max-width:480px) {
     .bg {
-        top: 13rem;
+        top: 15rem;
         border-radius: 50rem;
         height: 50%;
         z-index: -1;
-        right: 0rem;
-        position:absolute;
-        text-align: center;
-        display: block;
         justify-content: center;
-        align-items: center;
         margin: auto;
     }
     .introContent {
