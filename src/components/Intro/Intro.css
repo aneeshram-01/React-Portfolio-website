@@ -78,7 +78,6 @@
         border-radius: 50rem;
         height: 70%;
         z-index: -1;
-        height: 70%;
     }
     .introPara {
         font-size: 1rem;
@@ -103,13 +102,12 @@
 
 @media screen and (max-width:480px) {
     .bg {
-        margin-right: 2rem;
-        object-fit: cover;
-        position: absolute;
-        top: 12rem;
+        top: 13rem;
         border-radius: 50rem;
         height: 50%;
         z-index: -1;
+        margin-right: -20rem;
+        position:absolute;
     }
     .introContent {
         margin-top: -13rem;
