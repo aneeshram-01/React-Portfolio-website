@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 const Intro=()=>{
     const [text] = useTypewriter({
-        words: ["a Developer...","Cse Major(Undergrad)...", "a Tech Enthusiast.....","Glad to see you!!"],
+        words: ["a Developer...","Cse Major(Undergrad)...", "and a Tech Enthusiast.....","Glad to see you!!"],
         loop:true,
         typeSpeed:40,
         deleteSpeed:40,
