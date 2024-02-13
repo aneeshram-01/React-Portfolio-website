@@ -65,6 +65,6 @@
 }
 
 #logo {
-  fill: white; /* or color: white; depending on the property used in your SVG */
+  color: white; /* or color: white; depending on the property used in your SVG */
 }
 
