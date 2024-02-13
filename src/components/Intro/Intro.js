@@ -8,9 +8,9 @@ const Intro=()=>{
     const [text] = useTypewriter({
         words: ["a Developer...","Cse Major(Undergrad)...", "a Tech Enthusiast.....","Glad to see you!!"],
         loop:true,
-        typeSpeed:30,
-        deleteSpeed:30,
-        delaySpeed:3000,
+        typeSpeed:40,
+        deleteSpeed:40,
+        delaySpeed:2500,
     });
     return(
         <section id="intro">
