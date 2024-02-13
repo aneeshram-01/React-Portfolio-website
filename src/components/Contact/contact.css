@@ -63,8 +63,8 @@
     width: 3rem;
     margin: 0 0.75rem;
 }
-
-#logo {
-  color: white; /* or color: white; depending on the property used in your SVG */
-}
-
+.logo {
+    filter: invert(1);
+    width: 44px; /* Adjust this value to the desired width */
+  height: auto;
+  }
