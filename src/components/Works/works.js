@@ -16,7 +16,7 @@ const Works =()=> {
          <a href="https://github.com/aneeshram-01/React-Portfolio-website" target="_blank" rel="noopener noreferrer">
                 <img src={Portfolio6} alt='Portfolio6' className="worksImg"/>
         </a>
-          <a href="https://nexus-bit.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://nexus-bit.vercel.app/" target="_blank" rel="noopener noreferrer">
                 <img src={Portfolio4} alt='Portfolio4' className="worksImg"/>
         </a> 
         <a href="https://github.com/aneeshram-01/Video-Piracy-Detection-and-Avoidance" target="_blank" rel="noopener noreferrer">
@@ -25,13 +25,11 @@ const Works =()=> {
         <a href="https://github.com/aneeshram-01/Shopper-Categorization" target="_blank" rel="noopener noreferrer">
                 <img src={Portfolio1} alt='Portfolio1' className="worksImg"/>
         </a>
-        
          <a href="https://github.com/aneeshram-01/Meridian" target="_blank" rel="noopener noreferrer">
                 <img src={Portfolio2} alt='Portfolio2' className="worksImg"/>
         </a>
         
-         
-                <img src={Portfolio3} alt='Portfolio3' className="worksImg"/>
+          <img src={Portfolio3} alt='Portfolio3' className="worksImg"/>
         
             </div>
         </section>
