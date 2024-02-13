@@ -8,7 +8,7 @@
 }
 
 .bg {
-    position: relative;
+    position: absolute;
     top: 4.5rem;
     right: 0;
     z-index: -1;
