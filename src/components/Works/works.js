@@ -3,7 +3,7 @@ import './works.css';
 import Portfolio1 from '../../assets/p10.png';
 import Portfolio2 from '../../assets/p8.png';
 import Portfolio3 from '../../assets/p13.png';
-import Portfolio4 from '../../assets/p11.png';
+import Portfolio4 from '../../assets/p25.png';
 import Portfolio5 from '../../assets/p7.png';
 import Portfolio6 from '../../assets/p12.png';
 const Works =()=> {
@@ -25,7 +25,7 @@ const Works =()=> {
                 <img src={Portfolio3} alt='Portfolio3' className="worksImg"/>
         
         
-         <a href="https://github.com/aneeshram-01/TriviaHQ" target="_blank" rel="noopener noreferrer">
+         <a href="https://nexus-bit.vercel.app/" target="_blank" rel="noopener noreferrer">
                 <img src={Portfolio4} alt='Portfolio4' className="worksImg"/>
         </a>
         
