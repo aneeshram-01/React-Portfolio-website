@@ -39,7 +39,7 @@ const Contact = () => {
                 <img className='link' src={FacebookIcon} alt='Facebook'/>
     </a>
   <a href="https://x.com/aneesh_ram01?t=GmvCmz5DeGtIwL16gio12g&s=08" target="_blank" rel="noopener noreferrer">
-                <img className='link' class='logo' id='logo' src={TwitterIcon} alt='Twitter'/>
+                <img className='link' class='logoooo' id='logo' src={TwitterIcon} alt='Twitter'/>
     </a>
      <a href="https://www.instagram.com/aneesh.ram01/" target="_blank" rel="noopener noreferrer">
                 <img className='link' src={InstagramIcon} alt='Instagram'/>
