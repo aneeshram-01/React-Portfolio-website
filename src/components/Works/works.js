@@ -3,7 +3,7 @@ import './works.css';
 import Portfolio1 from '../../assets/p10.png';
 import Portfolio2 from '../../assets/p8.png';
 import Portfolio3 from '../../assets/p13.png';
-import Portfolio4 from '../../assets/p25.png';
+import Portfolio4 from '../../assets/P25.png';
 import Portfolio5 from '../../assets/p7.png';
 import Portfolio6 from '../../assets/p12.png';
 const Works =()=> {
