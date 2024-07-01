@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 const Intro=()=>{
     const [text] = useTypewriter({
-        words: ["a Front-end Developer...","Cse Major(Undergrad)...", "and a Tech Enthusiast.....","Glad to see you!!"],
+        words: ["a Front-end Developer...","Cse Graduate...", "and a Tech Enthusiast.....","Glad to see you!!"],
         loop:true,
         typeSpeed:40,
         deleteSpeed:40,
@@ -18,7 +18,7 @@ const Intro=()=>{
                 <span className='hello'>Hey there!</span>
                 <span className='introText'>I'm<span className='introName'>AneeshRam</span>,<br/>
                 <span> {text}</span></span>
-                <p className='introPara'>I am a skilled and passionate Web Designer  </p>
+                <p className='introPara'>I am a skilled and passionate Web Developer  </p>
                 <Link to='contact' smooth={true}><button className='btn'><img src={contactImg} alt='Mail Me'className='contactImg'/>Mail Me</button></Link>
             </div>
            
